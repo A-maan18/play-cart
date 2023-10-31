@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/play-cart/static/css/main.334dba26.css",
+    "main.js": "/play-cart/static/js/main.c785e659.js",
+    "index.html": "/play-cart/index.html",
+    "main.334dba26.css.map": "/play-cart/static/css/main.334dba26.css.map",
+    "main.c785e659.js.map": "/play-cart/static/js/main.c785e659.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334dba26.css",
+    "static/js/main.c785e659.js"
+  ]
+}
